@@ -465,6 +465,54 @@ class Main {
     }
 }
 
+EPAM Round 2
+===========================
+1)Java memory management
+2)Diferent types of garbage collectors
+3)Type Promotion and Type Erasion
+4)Sealed and Non sealed classes
+5)Intermediate and terminal operations in java
+6)Different java8 features
+7)Different functional interfaces in java 8
+8)How to create threads in java
+9)Executor Framework 
+10)Race condition
+11)Volatile keyword
+12)difference between IOC and dependency injection
+13)Circular dependency and how to remediate it
+14)different spring bean scopes
+15)solid principles in java
+16)different design patterns
+17)Adapter design pattern
+18)use of Stringpool in java
+19)Acid properties 
+20)Union in sql
+21)distinct keyword in java
+22)difference between controller and rest controller
+23)differncce between jpa and hibernate
+24)diffenrce between Entitymanger and EntityMangerfactory
+25)HQL queries
+26)How to implemnet factory design pattern in java
+27)Richardson maturity model
+28)How ci/cd works in your project
+29)Test containers
+30)test diamond
+31)CAP theorem
+32)@Transactional annotation in spring boot
+33)use of @Repository in Spring boot
+34)How to document your rest api
+35)different design patterns used in microservices
+36)partition and offset in kafka.
+37)Ratelimiting
+38)cache levels in hibernate
+39)Different types of NOSQL databases
+40)Richardson maturity model
+41)distributed transaction management
+42)abstraction in java and how can we achieve it
+43)what is method hiding
+44)Design a rest api for library management system that has ability to add books and remove books(basically crud operations).
+45)Proxy design pattern in java.
+
 UST Global Interview questions
 ================================
 1)Given a list of transactions,find the total amount for each type of transaction
@@ -535,6 +583,25 @@ List<Integer> list=Arrays.Stream(a).distinct().sorted().collect(Collectors.toLis
 
 System.out.println(list);
 System.out.println(list.get(list.size()-2));
+
+Cognizant Round 2 interview
+==============================
+1)Questions on project like how splunk is congigured and how to check logs in splunk.
+2)How you deploy your services in your project,what process do you follow when you made code changes in git after that what will happen
+3)How security is configured for your rest api.
+4)Advantages and disadvantages of microservices
+5)how microservices communicates in your project
+6)what is unique solution you came up with in project
+7)Have you faced any memory issues in your application and what have you done for it
+8)How do you rate limit your api
+9)what is the traffic for your application(how many users)
+10)How splunk alerts are configured
+11)advantage of dynamodb over oracle and db2
+12)How do you interact with db2 throgh java,like how you update the db
+13)Asked to code a rest api for get and post operations
+14)Different annotations that you have worked in spring boot
+15)How do you validate beans or entity object input from api.
+16)Use of ControllerAdvice
 
 Barraiser interview for thoughtworks
 ================================================ 
