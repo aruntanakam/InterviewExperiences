@@ -601,7 +601,54 @@ Cognizant Round 2 interview
 13)Asked to code a rest api for get and post operations
 14)Different annotations that you have worked in spring boot
 15)How do you validate beans or entity object input from api.
-16)Use of ControllerAdvice
+16)Use of ControllerAdvice.
+
+Cognizant client round for dell(taken By dell person)
+===============================
+1)Oops concepts in java
+2)diff between abstract class and interface
+3)method hiding
+4)what will happen if main method is not there
+5)can we override main method
+6)checked and unchecked exceptions
+7)diff between throws and throw
+8)super class of Exception,is it class or interface
+9)how to create immutable class in java
+10)thread lifecycle methods
+11)different synchronizaton mechanisms
+12)Deadlock and how to avoid deadlock in java
+13)Future and Promise in java
+14)how to lock resources in java
+15)Object level locking
+16)Statement vs preparedstaement in java
+17)How to call stored procs in java
+18)cursors in sql
+19)indexes in sql
+20)IOC in spring boot
+21)Dependency injection in spring boot
+22)Autowiring in java
+23)sessionfactory and session diff in jpa
+24)get and load method in jpa
+25)put and patch http methods
+26)sql injection and jhow to remediate it
+27)jdbctemplate and its advantages
+28)second level cache in jpa 
+29)finalize method in java
+30)how to call garbage collector in java
+31)different class loaders in java
+32)program to find third highest element from list
+33)List and arraylist differences
+34)weakhashmap in java
+35)hashtable vs hashmap in java
+36)Use of streams in java
+37)diff between filter and map in java
+38)notify and notifyall methods in java
+38)Serialization in java
+39)If we dont want to serialize a particular field then how to achieve it
+40)shallow copy in java
+41)Composition in java with example
+42)Use of generics in java
+
 
 Barraiser interview for thoughtworks
 ================================================ 
